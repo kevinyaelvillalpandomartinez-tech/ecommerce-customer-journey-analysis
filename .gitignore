@@ -23,3 +23,6 @@ Thumbs.db
 # Raw datasets
 data/raw/*.csv
 data/raw/*.zip
+
+# Processed datasets
+data/processed/**/*.parquet
